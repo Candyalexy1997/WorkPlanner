@@ -4,6 +4,11 @@ body {
     line-height: 1;
   }
   
+  textarea, 9 {
+    color: 425000; 
+  }
+
+
   textarea{
     background: transparent;
     border: none;
@@ -30,13 +35,13 @@ body {
     text-align: center;
     border-radius: 15px;
   }
-  
+
   .row {
     white-space: pre-wrap;
     height: 80px;
     border-top: 1px solid rgb(25, 0, 255);;
   }
-  
+
   .hour {
     background-color: #ffffff;
     color: #000000;
